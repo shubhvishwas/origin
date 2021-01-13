@@ -1,0 +1,121 @@
+/**
+ *Webpage about myself
+ */
+html{
+	background-color:#102372
+}
+
+body {
+	background-color:black;
+	}
+	.header-left {
+	  float: left;
+	}
+
+	.PROJECT {
+	  float: right;
+	  margin-right: -25px;
+	}
+
+	.PROJECT a {
+	  line-height: 65px;
+	  padding: 0 25px;
+	  color: #acd1b2;
+	  display: block;
+	  float: left;
+	  transition: all 0.5s;
+	}
+
+	.PROJECT a:hover {
+	  background-color: rgba(255, 255, 255, 0.3);
+	}
+	.images1{
+		display:block;
+		margin-left:auto;
+		margin-right:auto;
+		width:50%;
+	}
+	.images2{
+		display:block;
+		margin-left:auto;
+		margin-right:auto;
+		width:50%;
+	}
+	.images3{
+		display:block;
+		margin-left:auto;
+		margin-right:auto;
+		width:50%;
+	}
+h1 {
+	font-family:"Times New Roman";
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color:#acd1b2;
+}
+h2 {
+	font-family:"Times New Roman";
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color:#acd1b2;
+}
+h3{
+	color:#acd1b2;
+	text-align: center;
+	font-size:20px;
+}
+li{
+	font-size:20px;
+	font-weight:bold;
+	color:#acd1b2;
+}
+.images1 h2{
+	text-align:left;
+}
+#name {
+	position: relative;
+	top: -10px;
+	font-color:
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+#email{
+	float:right;
+	margin-right:5px;
+	padding-top:5px;
+	font-size:16px;
+	font-family:"Times New Roman";
+	color:white;
+}
+div{
+	border-radius:5px;
+}
+
+h1:hover
+{
+	background-color:#102372;
+}
+h2:hover
+{
+	background-color:#102372;
+}
+div{
+	border-radius:3px dotted blue;
+}
+img{
+	border-radius:3px dotted blue;
+}
+.Project-title a{
+	font-size:30px;
+	font-family:"Times New Roman";
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color:#acd1b2;
+}
